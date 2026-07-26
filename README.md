@@ -55,17 +55,6 @@ I'm a passionate **Cyber Security Enthusiast** and **Full Stack Developer** who 
 **💡 My Goal:**  
 To grow into a skilled technology professional who combines **software development and cyber security** to create secure, innovative, and impactful solutions.
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://i.pinimg.com/originals/7e/8d/4e/7e8d4e3b8b7f2e7c6c6f3f4a7b5f9f8a.gif" width="280" alt="Coding Girl Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Code-Create-Inspire-4FC3F7?style=for-the-badge&logo=github&logoColor=white" alt="Code Create Inspire"/>
-
-</td>
 </tr>
 </table>
 
