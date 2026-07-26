@@ -102,18 +102,6 @@ To grow into a skilled technology professional who combines **software developme
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qulzumayeshaawan7-tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4FC3F7&icon_color=00B0FF&text_color=81D4FA" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qulzumayeshaawan7-tech&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4FC3F7&text_color=81D4FA" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -138,7 +126,7 @@ To grow into a skilled technology professional who combines **software developme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qulzumayesheawan7-tech/qulzumayesheawan7-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/qulzumayeshaawan7-tech/qulzumayeshaawan7-tech/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 <!--
