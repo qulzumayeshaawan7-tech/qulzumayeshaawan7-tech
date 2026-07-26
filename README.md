@@ -19,7 +19,6 @@
 <a href="https://github.com/qulzumayeshaawan7-tech?tab=repositories">
   <img src="https://img.shields.io/github/stars/qulzumayeshaawan7-tech?label=Stars&style=for-the-badge&color=81D4FA&labelColor=1a1a1a" alt="GitHub Stars"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=qulzumayeshaawan7-tech&label=Profile%20Views&color=00B0FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
