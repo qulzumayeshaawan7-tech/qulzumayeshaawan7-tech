@@ -72,14 +72,14 @@ To grow into a skilled technology professional who combines **software developme
 
 ---
 
-## 🛠️ Tech Stack
+
+## 💻 Languages & Frameworks
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,dotnet,laravel,react,nodejs" alt="Languages and Frameworks"/>
 
+</div>
 <br><br>
 
 ### 🗄️ Databases & Tools
@@ -138,10 +138,9 @@ To grow into a skilled technology professional who combines **software developme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qulzumayeshaawan7-tech/qulzumayeshaawan7-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/qulzumayesheawan7-tech/qulzumayesheawan7-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
 <!--
 🐍 GitHub Action: Contribution Snake
 
@@ -177,16 +176,12 @@ jobs:
 
 ---
 
-## 💗 Featured Projects
+## 💙 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/qulzumayeshaawan7-tech">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=qulzumayeshaawan7-tech&repo=YOUR_PROJECT_1&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=00B0FF&text_color=81D4FA" alt="Project 1"/>
-</a>
-
-<a href="https://github.com/qulzumayeshaawan7-tech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qulzumayeshaawan7-tech&repo=YOUR_PROJECT_2&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=00B0FF&text_color=81D4FA" alt="Project 2"/>
 </a>
 
 </div>
